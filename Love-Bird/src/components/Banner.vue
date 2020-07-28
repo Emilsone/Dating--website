@@ -68,14 +68,14 @@ export default {
 </script>
 <style>
 .section {
-  background-image: url("../assets/home-banner.jpg");
+  background-image: url("../assets/journey-b-2.jpg");
   background-position: center;
   background-attachment: fixed;
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: soft-light;
-  background-color: rgb(22, 20, 20);
+  background-color: rgb(24, 23, 23);
 }
 @media  (max-width: 755px){
   #form{

@@ -1,6 +1,6 @@
 <template>
   <section>
-    <div class="container flex  flex-wrap sm:flex-no-wrap justify-between my-12">
+    <div class="container flex  justify-between my-12">
       <div class="text-img">
         <img src="../assets/love-bird.jpg" class="w-3/4 h-42 mx-8" alt="" />
       </div>
@@ -32,10 +32,17 @@ export default {
   img{
     width: auto;
     height: auto;
+    margin: auto;
   }
-  .container{
-    flex-wrap: nowrap;
-    flex-basis: 33%;
+   .container{
+    flex-direction: column;
+    
+  }
+  .text-banner{
+    margin-left: 10px;
+  }
+  .welcome{
+    text-align:center ;
   }
 }
 </style>
