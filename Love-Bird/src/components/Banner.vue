@@ -23,7 +23,7 @@
             class="block text-gray-700 text-sm font-bold mb-2"
             for="username"
           >
-            Username <i class="fa fa-id-card-o" aria-hidden="true"></i>
+            Username 
           </label>
           <input
             class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
@@ -49,7 +49,7 @@
         </div>
         <div class="flex items-center justify-between">
           <button
-            class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline mx-auto w-42"
+            class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline mx-auto w-42 buton"
             type="button"
           >
           Register
@@ -99,5 +99,11 @@ export default {
     border: 2px solid white;
     color: #ffffff;
   }
+}
+.buton{
+  letter-spacing:4px;
+}
+form{
+  background-color:transparent;
 }
 </style>
