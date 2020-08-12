@@ -64,7 +64,7 @@ export default {
     text-align: center;
   }
   .fa-facebook,.fa-twitter,.fa-instagram{
-  font-size: 19px;
+  font-size: 13px;
 }
 }
 </style>
