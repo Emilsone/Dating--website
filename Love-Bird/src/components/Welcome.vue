@@ -5,7 +5,7 @@
         <img src="../assets/love-bird.jpg" class="w-3/4 h-42 mx-8" alt="" />
       </div>
       <div class="text-banner pt-4">
-        <h1 class="text-6xl  font-bold py-8 pt-8 px-4">Welcome!</h1>
+        <h1 class="text-6xl  font-bold py-8 pt-8 px-2">Welcome!</h1>
         <p class="text-md px-4">
           Luis is a long established dating agency (est . since <br />1996) We
           have successfully conected thousands of singles<br />

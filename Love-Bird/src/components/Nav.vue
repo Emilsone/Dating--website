@@ -31,21 +31,21 @@
             <a
               class="lg:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-indigo-400"
               href="#"
-              >HOME
+              >Home
             </a>
           </li>
           <li>
             <a
               class="lg:p-4 py-3 px-0 block border-b-2 border-transparent hover:border-indigo-400"
               href="#"
-              >HOW IT WORKS</a
+              >How It Works</a
             >
           </li>
           <li>
             <a
-              class="lg:p-4 py-3 px-0 lock border-b-2 border-transparent hover:border-indigo-400"
+              class="lg:p-4 py-4 px-0 lock border-b-2 border-transparent hover:border-indigo-400"
               href="#"
-              >HELP</a
+              >Help</a
             >
           </li>
           <li>

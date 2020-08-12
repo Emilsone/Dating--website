@@ -32,9 +32,9 @@ export default {
 </script>
 <style>
 
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 #app{
-  font-family: "Lato", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 300;
 	font-size:16px;
 }

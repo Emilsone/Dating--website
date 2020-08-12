@@ -5,13 +5,13 @@
         <div class="icons">
           <h1 class="text-2xl py-12">FOLLOW US</h1>
           <span
-            ><i class="fa fa-facebook  px-6 text-4xl" aria-hidden="true"></i
+            ><i class="fa fa-facebook  px-4 text-xl" aria-hidden="true"></i
           ></span>
           <span
-            ><i class="fa fa-instagram  px-6 text-4xl" aria-hidden="true"></i
+            ><i class="fa fa-instagram  px-4 text-xl" aria-hidden="true"></i
           ></span>
           <span
-            ><i class="fa fa-twitter  px-6 text-4xl" aria-hidden="true"></i
+            ><i class="fa fa-twitter  px-4 text-xl" aria-hidden="true"></i
           ></span>
           <!-- <span><i class="fa fa-sna  px-6 text-4xl" aria-hidden="true"></i></span> -->
         </div>
@@ -28,11 +28,11 @@
         </div>
       </div>
     </footer>
-    <!-- <footer>
+    <footer>
       <div class="container">
-        <h1 class="text-center">copy right reserved by mr Vue</h1>
+        <h1 class="text-center"></h1>
       </div>
-    </footer> -->
+    </footer>
   </section>
 </template>
 <script>
